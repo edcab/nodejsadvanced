@@ -1,0 +1,12 @@
+#Notas Platziverse
+
+#standard: se usa para verificar errores de digitación o indentanción
+1. install: npm i --save-dev standard
+2. verifiy: standard
+3. fix errors. standard --fix
+
+#sequelize: se usa para mapear un objeto a tabla de BD
+1. install: npm i sequelize pg pg-hstore --save
+
+#Configurar usuario gitHub
+git config --local user.email "email@example.com"
