@@ -8,5 +8,3 @@
 #sequelize: se usa para mapear un objeto a tabla de BD
 1. install: npm i sequelize pg pg-hstore --save
 
-#Configurar usuario gitHub
-git config --local user.email "email@example.com"
