@@ -8,3 +8,5 @@
 #sequelize: se usa para mapear un objeto a tabla de BD
 1. install: npm i sequelize pg pg-hstore --save
 
+#Git Help
+delete credentials: git config --local credential.helper "" #with this vscode always ask credentials
