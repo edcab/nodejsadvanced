@@ -9,4 +9,6 @@
 1. install: npm i sequelize pg pg-hstore --save
 
 #Git Help
-delete credentials: git config --local credential.helper "" #with this vscode always ask credentials
+Clonar un repositorio:  $ git clone <dir_repo>
+delete credentials:     $ git config --local credential.helper "" #with this vscode always ask credentials
+
